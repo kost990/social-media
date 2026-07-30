@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    grid-area: n;
+    gap:20px;
+    padding: 20px;
+    background-color: #0D0D0D;
+    border-right: 2px solid #333333;
+}
+.item a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.item a.active {
+    color:#397DF6;
+}

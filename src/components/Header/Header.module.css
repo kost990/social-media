@@ -1,0 +1,21 @@
+.header{
+    grid-area: h;
+    background-color: #0D0D0D;
+    border-bottom: 2px solid #333333;
+    color:white;
+
+}
+.header img {
+    width: 10px;
+}
+
+.login{
+    color:white;
+    text-decoration: none;  
+}
+
+.loginblock{
+    padding: 20px;
+    color:white;
+    text-decoration: none; 
+}

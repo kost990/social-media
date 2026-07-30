@@ -1,0 +1,7 @@
+.dialogs{
+    color: white;
+    text-decoration: none;
+}
+.dialogs:focus{
+    color: #397DF6;
+}

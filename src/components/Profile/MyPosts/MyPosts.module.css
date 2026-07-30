@@ -1,0 +1,14 @@
+
+.item{
+  color:bisque
+}
+.postsBlock {
+  padding: 10px;
+}
+.submit {
+    border: none;
+    border-radius: 2px;
+    max-width: 300px;
+    color:aliceblue;
+    background-color: #397DF6;
+}

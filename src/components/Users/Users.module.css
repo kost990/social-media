@@ -1,0 +1,13 @@
+.photo{
+    width: 30px;
+}
+.selectedPage{
+    color: #397DF6;
+    font-weight: bold;
+}
+.users{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}

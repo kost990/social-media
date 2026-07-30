@@ -1,0 +1,9 @@
+.dialogs{
+    display: flex;
+    gap: 20px;
+
+}
+.dialogs_items{
+    color:white;
+    text-decoration: none;  
+}

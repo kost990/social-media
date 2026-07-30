@@ -1,0 +1,36 @@
+.login {
+    width: 100%;
+    max-width: 200px;
+    padding: 50px;
+    background-color: #171717;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border: 1px solid #333333;
+}
+.ErrorMessage{
+    color: red;
+}
+.loginform {
+    display: flex; 
+    flex-direction: column;
+    color: #8D9094;
+    gap: 10px
+}
+.submit {
+    border: none;
+    max-width: 300px;
+    color:aliceblue;
+    background-color: #397DF6;
+}
+.input{
+    border-radius: 2px;
+        background-color: #171717;
+        border: 1px solid #333333;
+        color:#FFFFFF;
+}
+.input:active {
+outline-color:#f00000;
+}
