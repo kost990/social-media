@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kost990/social-media.git/static/css/main.fad58e28.css",
+    "main.js": "/kost990/social-media.git/static/js/main.8981050c.js",
+    "static/css/357.477ed9bc.chunk.css": "/kost990/social-media.git/static/css/357.477ed9bc.chunk.css",
+    "static/js/357.9d6fad7f.chunk.js": "/kost990/social-media.git/static/js/357.9d6fad7f.chunk.js",
+    "static/css/986.326a694e.chunk.css": "/kost990/social-media.git/static/css/986.326a694e.chunk.css",
+    "static/js/986.8858c6b5.chunk.js": "/kost990/social-media.git/static/js/986.8858c6b5.chunk.js",
+    "static/media/amalie-steiness.gif": "/kost990/social-media.git/static/media/amalie-steiness.34970db13a0575566878.gif",
+    "index.html": "/kost990/social-media.git/index.html",
+    "static/media/icons8-message.svg": "/kost990/social-media.git/static/media/icons8-message.2d8203022960ba4b7a5dcab5adcb266a.svg",
+    "static/media/icons8-song.svg": "/kost990/social-media.git/static/media/icons8-song.05cbe4586bdc178497dedfb1c723d525.svg",
+    "main.fad58e28.css.map": "/kost990/social-media.git/static/css/main.fad58e28.css.map",
+    "main.8981050c.js.map": "/kost990/social-media.git/static/js/main.8981050c.js.map",
+    "357.477ed9bc.chunk.css.map": "/kost990/social-media.git/static/css/357.477ed9bc.chunk.css.map",
+    "357.9d6fad7f.chunk.js.map": "/kost990/social-media.git/static/js/357.9d6fad7f.chunk.js.map",
+    "986.326a694e.chunk.css.map": "/kost990/social-media.git/static/css/986.326a694e.chunk.css.map",
+    "986.8858c6b5.chunk.js.map": "/kost990/social-media.git/static/js/986.8858c6b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad58e28.css",
+    "static/js/main.8981050c.js"
+  ]
+}
